@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>create test</name>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2021-05-26 19:18:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f96fc7221b50301099156575624bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>create test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_336128_wish_list">a4f58b661b10301099156575624bcbdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">a4f58b661b10301099156575624bcbdd</sys_scope>
+        <sys_update_name>sys_script_client_f96fc7221b50301099156575624bcbaf</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2021-05-26 19:18:54</sys_updated_on>
+        <table>incident</table>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
