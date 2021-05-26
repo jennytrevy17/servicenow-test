@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="test - Container 1">e1bf0f221b50301099156575624bcbbe</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2021-05-26 19:20:07</sys_created_on>
+        <sys_id>24cfc7221b50301099156575624bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Wish List" source="x_336128_wish_list">a4f58b661b10301099156575624bcbdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">a4f58b661b10301099156575624bcbdd</sys_scope>
+        <sys_update_name>sp_row_24cfc7221b50301099156575624bcb8e</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2021-05-26 19:20:07</sys_updated_on>
+    </sp_row>
+</record_update>
